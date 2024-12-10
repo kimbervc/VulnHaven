@@ -3,7 +3,7 @@ name: vulncheck-GitHubAction-example
 on:
   pull_request:
     branches:
-    - master
+    - main
 
 permissions: write-all
 
