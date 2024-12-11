@@ -3,7 +3,7 @@
       "lodash": "4.17.19", 
       "express": "4.17.1", 
       "jquery": "3.4.1", 
-      "axios": "0.21.0", 
+      "axios": "1.7.9", 
       "debug": "2.6.9", 
       "markdown-it": "12.0.0" 
     },
