@@ -1,3 +1,11 @@
+name: Dependabot Workflow
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches:
+      - main
+      
 version: 2
 updates:
   - package-ecosystem: "docker"
