@@ -15,14 +15,16 @@ Legend has it that anyone who masters the vulnerabilities of VulnHaven will gain
 
 ## 📋 Features
 
-The project highlights several classes of vulnerabilities:
+The project highlights several classes of vulnerabilities in dependencies:
 
-1. **SQL Injection**
-2. **Cross-Site Scripting (XSS)**
-3. **Command Injection**
-4. **Insecure Dependencies**
-5. **Hardcoded Secrets**
-6. **Outdated Libraries**
+Example: 
+| Dependency File      | Language             |
+|----------------------|----------------------|
+| `package.json`       | JavaScript/Node.js  |
+| `requirements.txt`   | Python              |
+| `Gemfile`            | Ruby                |
+| `pom.xml`            | Java (Maven)        |
+| `composer.json`      | PHP                 | 
 
 These vulnerabilities mimic real-world scenarios, offering a realistic environment for testing and learning.
 
